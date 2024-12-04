@@ -15,7 +15,7 @@ module.exports = {
   "ANTI_BOT": true,
   "ANTI_LINK": true,
   "ANTI_CALL": false,
-  "ANTI_DELETE": true,
+  "ANTI_DELETE": false,
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
